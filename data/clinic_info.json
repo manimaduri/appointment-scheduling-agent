@@ -1,0 +1,79 @@
+{
+  "faqs": [
+    {
+      "question": "What are your clinic hours?",
+      "answer": "Our clinic is open Monday to Friday from 9:00 AM to 5:00 PM. We are closed on weekends and public holidays.",
+      "category": "general"
+    },
+    {
+      "question": "Where is the clinic located?",
+      "answer": "We are located at 123 Medical Center Drive, Suite 100, Healthcare City, HC 12345. We are on the second floor of the Medical Plaza building, with ample parking available in the adjacent lot.",
+      "category": "location"
+    },
+    {
+      "question": "What types of appointments do you offer?",
+      "answer": "We offer four types of appointments: Consultation (30 minutes) for first-time visits or new health issues, Follow-up (15 minutes) for continuing care, Check-up (20 minutes) for routine health examinations, and Vaccination (10 minutes) for immunizations.",
+      "category": "appointments"
+    },
+    {
+      "question": "Do I need a referral?",
+      "answer": "For most services, you do not need a referral. However, if you are seeing a specialist or if your insurance requires it, please bring your referral letter to your appointment.",
+      "category": "general"
+    },
+    {
+      "question": "What should I bring to my appointment?",
+      "answer": "Please bring your photo ID, insurance card, a list of current medications, and any relevant medical records. If this is your first visit, please arrive 15 minutes early to complete registration forms.",
+      "category": "appointments"
+    },
+    {
+      "question": "What insurance do you accept?",
+      "answer": "We accept most major insurance plans including Blue Cross, Aetna, United Healthcare, Cigna, and Medicare. Please call our office to verify if your specific plan is accepted.",
+      "category": "insurance"
+    },
+    {
+      "question": "How do I cancel or reschedule my appointment?",
+      "answer": "You can cancel or reschedule your appointment by calling our office at (555) 123-4567 at least 24 hours in advance. We appreciate advance notice to allow other patients to use the appointment slot.",
+      "category": "appointments"
+    },
+    {
+      "question": "Is parking available?",
+      "answer": "Yes, we have free parking available in the Medical Plaza parking lot adjacent to our building. The parking lot has ample space and is wheelchair accessible.",
+      "category": "location"
+    },
+    {
+      "question": "Do you offer telemedicine appointments?",
+      "answer": "Yes, we offer telemedicine appointments for follow-up visits and certain consultations. Please let us know when booking if you prefer a virtual appointment.",
+      "category": "appointments"
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "We require at least 24 hours notice for cancellations. Late cancellations or no-shows may be subject to a $50 fee. We understand emergencies happen, so please call us as soon as possible.",
+      "category": "policy"
+    },
+    {
+      "question": "Can I see a specific doctor?",
+      "answer": "Yes, you can request a specific doctor when booking your appointment. We have Dr. Smith, Dr. Johnson, and Dr. Williams available. Each doctor has different availability throughout the week.",
+      "category": "doctors"
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, credit cards (Visa, MasterCard, American Express), debit cards, and health savings account (HSA) cards. Payment is due at the time of service.",
+      "category": "payment"
+    },
+    {
+      "question": "Do you have wheelchair access?",
+      "answer": "Yes, our clinic is fully wheelchair accessible. We have ramps, elevators, accessible parking spaces, and wheelchair-accessible examination rooms.",
+      "category": "accessibility"
+    },
+    {
+      "question": "How long does a typical appointment last?",
+      "answer": "Appointment duration varies by type: Consultations are 30 minutes, Follow-ups are 15 minutes, Check-ups are 20 minutes, and Vaccinations are 10 minutes.",
+      "category": "appointments"
+    },
+    {
+      "question": "What if I'm running late?",
+      "answer": "If you're running late, please call us immediately at (555) 123-4567. We will do our best to accommodate you, but if you're more than 15 minutes late, we may need to reschedule your appointment.",
+      "category": "policy"
+    }
+  ]
+}
